@@ -1,16 +1,16 @@
 {
-  "name": "api-stand-up",
+  "name": "api_stand-up",
   "version": "1.0.0",
-  "description": "api for registration",
+  "description": "api для сервиса регистрации на stand up",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
   "type": "module",
-  "author": "Maryna (marynagaluza@gmail.com)",
+  "author": "Makism Leskin <Maksim.Leskin@methed.ru>",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.4"
+    "nodemon": "^3.0.1"
   }
 }
